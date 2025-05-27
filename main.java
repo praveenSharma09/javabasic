@@ -1,5 +1,4 @@
-import java.sql.SQLOutput;
-import java.util.*;
+cd import java.sql.SQLOutput
 //class Test
 //{
 //    public static void main(String []args)
